@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_movies">
+
+    <fragment
+        android:id="@+id/navigation_movies"
+        android:name="com.unlistedi.aplikasifavorite.ui.MoviesFavorite.MoviesFavorite"
+        android:label="@string/label_movies"
+        tools:layout="@layout/movies_favorite_fragment" />
+
+    <fragment
+        android:id="@+id/navigation_tvshow"
+        android:name="com.unlistedi.aplikasifavorite.ui.TvShowFavorite.TvShowFavorite"
+        android:label="@string/label_tv_show"
+        tools:layout="@layout/tv_show_favorite_fragment" />
+</navigation>

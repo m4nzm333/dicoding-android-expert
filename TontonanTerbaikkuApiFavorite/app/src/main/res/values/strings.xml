@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tontonan Terbaikku (API) Favorite</string>
+    <string name="label_movies">Movies</string>
+    <string name="label_tv_show">TV Shows</string>
+    <string name="button_selengkapnya">Show More</string>
+    <string name="label_score">Score</string>
+    <string name="label_rilis">Release Date</string>
+    <string name="label_deskripsi">Description</string>
+    <string name="change_language_settings">Change language settings</string>
+    <string name="loading_label">Loading</string>
+    <string name="favorites">Favorites</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="was_added">\u0020 added to Favorite</string>
+    <string name="was_empty_movies">You don\'t have any Favorite Movies.</string>
+    <string name="was_empty_tv_show">You don\'t have any Favorite TvShow.</string>
+    <string name="was_removed">\u0020 deleted from Favorite</string>
+</resources>

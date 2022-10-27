@@ -1,0 +1,2 @@
+include ':app', ':aplikasifavorite'
+rootProject.name='Tontonan Terbaikku'

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tontonan Terbaikku Consumer</string>
+    <string name="label_movies">Film</string>
+    <string name="label_tv_show">Sinetron</string>
+    <string name="button_selengkapnya">Selengkapnya</string>
+    <string name="label_score">Skor</string>
+    <string name="label_rilis">Tanggal Rilis</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="change_language_settings">Ganti bahasa</string>
+    <string name="loading_label">Memuat</string>
+    <string name="favorites">Favorit</string>
+    <string name="label_favorite">Favorite</string>
+    <string name="was_added">\u0020 telah ditambahkan ke dalam Favorit.</string>
+    <string name="was_empty_movies">Kamu tidak memiliki Favorit Film.</string>
+    <string name="was_empty_tv_show">Kamu tidak memiliki Favorit Sinetron.</string>
+    <string name="was_removed">\u0020 telah dihapus dari Favorit.</string>
+    <string name="search">Cari</string>
+</resources>

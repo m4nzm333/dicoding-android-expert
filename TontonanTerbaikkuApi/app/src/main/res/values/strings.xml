@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tontonan Terbaikku (API)</string>
+    <string name="label_movies">Movies</string>
+    <string name="label_tv_show">TV Shows</string>
+    <string name="button_selengkapnya">Show More</string>
+    <string name="label_score">Score</string>
+    <string name="label_rilis">Release Date</string>
+    <string name="label_deskripsi">Description</string>
+    <string name="change_language_settings">Change language settings</string>
+    <string name="loading_label">Loading</string>
+</resources>
